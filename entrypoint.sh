@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello GHCR 2!"
+echo "Hello GHCR 3"
